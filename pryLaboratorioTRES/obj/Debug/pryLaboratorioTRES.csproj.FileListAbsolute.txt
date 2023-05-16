@@ -1,0 +1,13 @@
+D:\IES\2DOAÑO\Labo3\pryLaboratorioTRES\bin\Debug\pryLaboratorioTRES.exe.config
+D:\IES\2DOAÑO\Labo3\pryLaboratorioTRES\bin\Debug\pryLaboratorioTRES.exe
+D:\IES\2DOAÑO\Labo3\pryLaboratorioTRES\bin\Debug\pryLaboratorioTRES.pdb
+D:\IES\2DOAÑO\Labo3\pryLaboratorioTRES\obj\Debug\pryLaboratorioTRES.csproj.AssemblyReference.cache
+D:\IES\2DOAÑO\Labo3\pryLaboratorioTRES\obj\Debug\pryLaboratorioTRES.csproj.SuggestedBindingRedirects.cache
+D:\IES\2DOAÑO\Labo3\pryLaboratorioTRES\obj\Debug\pryLaboratorioTRES.frmAgregarAlumno.resources
+D:\IES\2DOAÑO\Labo3\pryLaboratorioTRES\obj\Debug\pryLaboratorioTRES.frmPrincipal.resources
+D:\IES\2DOAÑO\Labo3\pryLaboratorioTRES\obj\Debug\pryLaboratorioTRES.Properties.Resources.resources
+D:\IES\2DOAÑO\Labo3\pryLaboratorioTRES\obj\Debug\pryLaboratorioTRES.csproj.GenerateResource.cache
+D:\IES\2DOAÑO\Labo3\pryLaboratorioTRES\obj\Debug\pryLaboratorioTRES.csproj.CoreCompileInputs.cache
+D:\IES\2DOAÑO\Labo3\pryLaboratorioTRES\obj\Debug\pryLaboratorioTRES.exe
+D:\IES\2DOAÑO\Labo3\pryLaboratorioTRES\obj\Debug\pryLaboratorioTRES.pdb
+D:\IES\2DOAÑO\Labo3\pryLaboratorioTRES\obj\Debug\pryLaboratorioTRES.frmConsultar.resources
